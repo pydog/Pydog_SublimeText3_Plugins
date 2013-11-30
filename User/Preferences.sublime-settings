@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"ignored_packages":
+	[
+	//	"Vintage",
+	//	"Markdown"
+	],
+
+	"vintage_start_in_command_mode": true
+
+}

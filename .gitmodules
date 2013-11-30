@@ -1,0 +1,3 @@
+[submodule "MarkdownEditing"]
+	path = MarkdownEditing
+	url = https://github.com/ttscoff/MarkdownEditing.git
