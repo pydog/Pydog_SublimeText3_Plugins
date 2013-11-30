@@ -1,3 +1,6 @@
 [submodule "MarkdownEditing"]
 	path = MarkdownEditing
 	url = https://github.com/ttscoff/MarkdownEditing.git
+[submodule "MarkdownPreview"]
+	path = MarkdownPreview
+	url = https://github.com/revolunet/sublimetext-markdown-preview.git
